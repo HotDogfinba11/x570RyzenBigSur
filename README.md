@@ -5,6 +5,7 @@ Opencore EFI to boot macOS 11 on the Ryzen platform
 - Audio
 - Ethernet
 - Sleep/idle
+- Big Sur Recovery
 
 # My Specs
 - Ryzen 7 3700x
